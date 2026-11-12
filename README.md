@@ -135,8 +135,8 @@ p {
 ```
 
 ## OUTPUT
-<img width="1014" height="381" alt="image" src="https://github.com/user-attachments/assets/23228683-1d4c-4788-8e09-0c1cce7fce06" />
-<img width="1030" height="412" alt="image" src="https://github.com/user-attachments/assets/c9925062-ad96-4659-9561-393dd2087173" />
+<img width="917" height="154" alt="image" src="https://github.com/user-attachments/assets/a48497f7-4cca-4dac-acf2-11c67ddeb9e9" />
+<img width="918" height="242" alt="image" src="https://github.com/user-attachments/assets/87fc6101-a080-48fb-9236-cc96753d900b" />
 
 ## RESULT
 
